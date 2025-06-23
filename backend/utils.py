@@ -1,6 +1,6 @@
 import pickle
 
-with open("backend/phishing_detector_latest.pkl", "rb") as f:
+with open("phishing_detector_latest.pkl", "rb") as f:
     model = pickle.load(f)
 
 def predict_email(email_text):
