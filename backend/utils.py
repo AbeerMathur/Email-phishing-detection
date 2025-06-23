@@ -1,7 +1,6 @@
 import pickle
 
-# Load model once
-with open("backend\phishing_detector_latest.pkl", "rb") as f:
+with open("..\\phishing_detector_latest.pkl", "rb") as f:
     model = pickle.load(f)
 
 def predict_email(email_text):
@@ -14,7 +13,7 @@ def predict_email(email_text):
             "category": "Phishing Email" or "Safe Email"
         }
     """
-    prediction = model.predict([email_text])[0]  # "Phishing Email" or "Safe Email"
+    prediction = model.predict([email_text])[0]  
     proba = model.predict_proba([email_text])[0]
     
     class_index = list(model.classes_).index(prediction)
