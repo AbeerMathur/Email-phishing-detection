@@ -1,4 +1,4 @@
-## CatPhish AI: Email Phishing Detection using an Ensemble ML Approach
+## Phisherman AI: Email Phishing Detection using an Ensemble ML Approach
 
 ## Demo
 
@@ -6,13 +6,15 @@
 
 ![App Screenshot](Assets/emailphishing1.png) 
 
+![App Screenshot](Assets/emailphishing2.png) 
+
 ---
 
 ---
 
 ## Overview
 
-**CatPhish AI** is a real-time phishing email detection system built on the research work titled **"Unified Approach Integrating Machine Learning Algorithms for Detection of e-Mail Phishing Attacks"**, published at the **2024 International Conference on Computing, Sciences and Communications (ICCSC)**.
+**Phisherman AI** is a real-time phishing email detection system built on the research work titled **"Unified Approach Integrating Machine Learning Algorithms for Detection of e-Mail Phishing Attacks"**, published at the **2024 International Conference on Computing, Sciences and Communications (ICCSC)**.
 
 This application leverages a hybrid ensemble of NLP-powered **Support Vector Machine** and **Random Forest** models. It delivers precise classification of email content as **Phishing Email** or **Safe Email**, and is backed by a Flask API and a Chakra UI React frontend.
 
