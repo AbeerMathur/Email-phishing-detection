@@ -1,5 +1,13 @@
 ## CatPhish AI: Email Phishing Detection using an Ensemble ML Approach
 
+## Demo
+
+![App Screenshot](Assets/emailphishing0.png)  
+
+![App Screenshot](Assets/emailphishing1.png) 
+
+---
+
 ---
 
 ## Overview
@@ -12,13 +20,13 @@ This application leverages a hybrid ensemble of NLP-powered **Support Vector Mac
 
 ## Authors
 
-- **Abeer Mathur** – [LinkedIn](https://in.linkedin.com/in/abeermathur)
-- **Usha Devi Gandhi** 
+- **Abeer Mathur** – [LinkedIn](https://in.linkedin.com/in/abeermathur) | [Website](https://abeermathur.in) | [ORCID](https://orcid.org/0009-0004-3129-0749)
 - **Abhinav Sudhakar Dubey**
 - **Pranav Singh Mahara**
+- **Usha Devi Gandhi**
 
 > Affiliation: Vellore Institute of Technology, Vellore, India  
-> Contact: abeermathur17@gmail.com | pranavsmahara@gmail.com
+> Contact: abeermathur17@gmail.com | dubey.abhinav2003@gmail.com | pranavsmahara@gmail.com | ushadevi.g@vit.ac.in
 
 ---
 
@@ -42,8 +50,7 @@ This application leverages a hybrid ensemble of NLP-powered **Support Vector Mac
 ## Research Summary
 
 ### Abstract
-
-> Phishing attacks exploit human vulnerabilities through deceptive emails. This study introduces a unified approach integrating **Natural Language Processing**, **Support Vector Machine**, and **Random Forest**, achieving a remarkable **98.7% accuracy**. The ensemble is optimized using **TF-IDF vectorization**, **grid search**, and **5-fold cross-validation**, offering a transparent and robust phishing detection solution.
+With the ever-rising risk of phishing attacks, which capitalize on vulnerable human behavior in the contemporary digital space, requires new cybersecurity methods. This literary work contributes to the solution by novel incorporation of three techniques: Support Vector Machine (SVM), Natural Language Processing (NLP) and Random Forest (RF). Utilizing NLP for deep analysis of text in phishing e-mails, SVM for strong categorization and Random Forest's decision making by group helps in improving detection. This combination of language and pattern analysis along with group learning builds a fortified system. This approach differs from prior work on a variety of factors such as reliability, security, integrity, scalability, interpretability, transparency, and robustness. Thorough evaluation on a reliable dataset aimed to demonstrate the method's effectiveness, which resulted in 98.7 % of accuracy in detection. This majorly aims at showcasing the potential of ensemble techniques to combat against cyber-attacks like phishing for laying a strong foundation for a secure digital environment.
 
 ---
 
