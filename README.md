@@ -114,6 +114,7 @@ This application leverages a hybrid ensemble of NLP-powered **Support Vector Mac
 - Robust evaluation using a large, real-world dataset
 - Real-time web application with a clean UX
 - Deployment with Docker and cloud hosting (Render)
+- Recieved the <a href='https://drive.google.com/file/d/1zaF3hzDAvVsis8lvLv3ACJkIKMAluVs0/view?usp=sharing'>*Best Paper Award*</a> in the AI/ML track.
 
 ---
 
@@ -129,4 +130,29 @@ This application leverages a hybrid ensemble of NLP-powered **Support Vector Mac
 
 This repository is intended for **academic and research purposes only**.  
 Model weights and source code are **not licensed for commercial use**.
+
+If you use this work in your research, please cite it as follows:
+
+### APA
+Mathur, A., Dubey, A. S., Mahara, P. S., & Gandhi, U. D. (2024, October). Unified approach integrating Machine Learning algorithms for detection of e-mail phishing attacks. In 2024 International Conference on Computing, Sciences and Communications (ICCSC) (pp. 1-7). IEEE. DOI: [10.1109/ICCSC62048.2024.10830374](https://ieeexplore.ieee.org/abstract/document/10830374)
+
+### MLA
+Mathur, Abeer, et al. "Unified approach integrating Machine Learning algorithms for detection of e-mail phishing attacks." 2024 International Conference on Computing, Sciences and Communications (ICCSC). IEEE, 2024. DOI: [10.1109/ICCSC62048.2024.10830374](https://ieeexplore.ieee.org/abstract/document/10830374).
+
+### IEEE
+A. Mathur, A. S. Dubey, P. S. Mahara and U. D. Gandhi, "Unified Approach Integrating Machine Learning Algorithms for Detection of e-Mail Phishing Attacks," 2024 International Conference on Computing, Sciences and Communications (ICCSC), Ghaziabad, India, 2024, pp. 1-7. DOI: [10.1109/ICCSC62048.2024.10830374](https://ieeexplore.ieee.org/abstract/document/10830374).
+
+### BibTeX
+```bibtex
+@inproceedings{mathur2024unified,
+  title={Unified approach integrating Machine Learning algorithms for detection of e-mail phishing attacks},
+  author={Mathur, Abeer and Dubey, Abhinav Sudhakar and Mahara, Pranav Singh and Gandhi, Usha Devi},
+  booktitle={2024 International Conference on Computing, Sciences and Communications (ICCSC)},
+  pages={1--7},
+  year={2024},
+  organization={IEEE}
+}
+```
+---
+
 
